@@ -13,8 +13,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <li>HTML
 <li>React.js
   <br>
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
+<br>during these 7 days bootcamp, and everything was explained from the very basics in this bootcamp.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 <a href="https://www.shapeai.tech"> www.shapeai.tech</a>
 or follow SHAPEAI on:
